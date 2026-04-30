@@ -1,4 +1,4 @@
-## Hi there 👋
+![Foto](pablo.jpg)## Hi there 👋
 
 <!--
 **B4rriu/B4rriu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
